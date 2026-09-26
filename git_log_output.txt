@@ -1,0 +1,37 @@
+commit 72f0f6d6fd9c56c4624541deddaa8feff6fdaf81
+Author: Missoune St Felix <ms3662@njit.edu>
+Date:   Sat Sep 26 16:53:29 2026 -0400
+
+    Revert "This is a new file about IT340."
+    
+    This reverts commit 442c9e942449c14890ca8e8219498464e3ac270a.
+
+commit 442c9e942449c14890ca8e8219498464e3ac270a
+Author: Missoune St Felix <ms3662@njit.edu>
+Date:   Sat Sep 26 16:45:05 2026 -0400
+
+    This is a new file about IT340.
+
+commit 0d8f649cacd66eea011efc281bca0fa13b6bf186
+Author: Missoune St Felix <ms3662@njit.edu>
+Date:   Sat Sep 26 16:32:51 2026 -0400
+
+    This commit delete a file created by mistake and adde a new change made to the /etc/passwd file.
+
+commit 6456e221af5fcefcdca7a1d3508de233ae81621c
+Author: Missoune St Felix <ms3662@njit.edu>
+Date:   Sat Sep 26 16:21:55 2026 -0400
+
+    This file will host secret informations
+
+commit a3ded96498ee699ad389d97ae946a3e03acb87f5
+Author: Missoune St Felix <ms3662@njit.edu>
+Date:   Sat Sep 26 15:16:26 2026 -0400
+
+    This commit changed the hostname from mis to mis1
+
+commit 6452170e348f884be84d4b23b18f154aa9835d19
+Author: Missoune St Felix <ms3662@njit.edu>
+Date:   Sat Sep 26 14:49:04 2026 -0400
+
+            This commit will track 5 files added in my git repository
