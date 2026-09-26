@@ -1,0 +1,424 @@
+    1  ls
+    2  ls -l
+    3  cd~
+    4  cd ~
+    5  nano .bashrc
+    6  source ~/.bashrc
+    7  [200~nano ~/.bashrc
+    8  nano ~/.bashrc
+    9  gti
+   10  ls -l
+   11  ls -l /home
+   12  ls -la
+   13  cd Lab_2
+   14  ls -la
+   15  mkdir almost
+   16  cd almost
+   17  ls -la
+   18  cd 
+   19  ls * .text
+   20  ls *.text
+   21  ls * .text
+   22  ls *.text
+   23  ls * .text
+   24  ls*.text
+   25  ls *.txt
+   26  pwd
+   27  cd ..
+   28  cd
+   29  ls
+   30  mkdir mimine
+   31  cd Lab_2
+   32  cd almost
+   33  cd
+   34  ls
+   35  cd Lab_2
+   36  cd almost
+   37  mkdir /home/mist/minine/it.girl.txt
+   38  mkdir /home/mist/mimine/it.girl
+   39  ls  /home/mist/mimine
+   40  mkdir /home/Desktop/movies
+   41  mkdir /home/mist/Desktop/movies
+   42  ls /home/mist/Desktop
+   43  mkdir /home/mist/Desktop/favorites && echo"I love this movies > /home/mist/Desktop/favorites
+   44  mkdir /home/mist/Desktop/favorites | touch best.txt /home/mist/Desktop/favorites && echo"I love this movies" > /home/mist/Desktop/favorites/best.txt
+   45  mkdir -p /home/mist/Desktop/favorites && echo "I love this movies" > /home/mist/Desktop/favorites/best.txt
+   46  cd
+   47  touch experiment.txt
+   48  echo "[200~om Wikipedia, the free encyclopedia
+   49  This article is about the online encyclopedia. For Wikipedia's home page, see Main Page. For the English-language Wikipedia, see English Wikipedia. For other uses, see Wikipedia (disambiguation).
+   50  WikipediaAn incomplete sphere made of large, white jigsaw puzzle pieces. Each puzzle piece contains one glyph from a different writing system, with each glyph written in black.
+   51  The Wikipedia logo depicts a globe made out of puzzle pieces with glyphs from various writing systems.
+   52  Screenshot
+   53  Wikipedia portal showing the different languages sorted by article count
+   54  Website type
+   55  Online encyclopedia
+   56  Available in348 languages[a][b]
+   57  PredecessorNupedia
+   58  HeadquartersSan Francisco, California, US
+   59  Country of origin
+   60  United States
+   61  Area servedWorldwide (except China, Myanmar, and North Korea)
+   62  OwnerWikimedia Foundation (since 2003)
+   63  Creator
+   64      Jimmy WalesLarry Sanger
+   65  Websitewikipedia.org
+   66  IPv6 supportSupported
+   67  CommercialNo
+   68  RegistrationOptional[c]
+   69  Users135 million (as of September 20, 2026)
+   70  LaunchedJanuary 15, 2001 (25 years ago)
+   71  Current statusActive
+   72  Content license
+   73  Creative Commons Attribution-ShareAlike 4.0[d]
+   74  OCLC number52075003
+   75  Wikipedia[e] is a free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and the wiki software MediaWiki. Founded by Jimmy Wales and Larry Sanger in 2001, Wikipedia has been hosted since 2003 by the Wikimedia Foundation, an American nonprofit organization funded mainly by donations from readers.[1] Wikipedia is the largest and most read reference work in history.[2][3]
+   76  Initially available only in English, Wikipedia has grown to over 300 languages and is one of the world's most visited websites as of 2026. The English Wikipedia, with over 7 million articles, remains the largest of the editions, which together comprise more than 68 million articles and attract more than 1.5 billion unique device visits and 13 million edits per month (about five edits per second on average) as of April 2024.[W 1] As of December 2025, over 25% of Wikipedia's traffic comes from the United States, while Japan accounts for nearly 7%, and the United Kingdom, Germany, and Russia each represent around 5%.[4]
+   77  Wikipedia has been praised for its internal structure and culture, enabling the democratization of knowledge, and for its extensive coverage on various topics. The encyclopedia has also been criticized for systemic bias, such as a gender bias against women and a geographical bias against the Global South.[5][6] The reliability of Wikipedia was frequently criticized in the 2000s, but has received greater praise from the late 2010s onward.[2][7] Censorship of Wikipedia by national governments has ranged from censoring specific pages to the entire site, sometimes due to its criticism of the government, or for content considered blasphemous.[8][9][10] Wikipedia articles on breaking news are accessed as sources for up-to-date information by many.[11][12]
+   78  History
+   79  Main article: History of Wikipedia
+   80  Nupedia
+   81  Main article: Nupedia
+   82  Jimmy Wales
+   83  Larry Sanger
+   84  Wikipedia founders Jimmy Wales and Larry Sanger
+   85  Various collaborative online encyclopedias were attempted before Wikipedia's launch, but with limited success.[13] Wikipedia began as a complementary project for Nupedia, a free online English-language encyclopedia project whose articles were written by experts and reviewed under a formal process.[14] It was founded on March 9, 2000, under the ownership of Bomis, a web portal company. Its main figures were Bomis CEO Jimmy Wales and Larry Sanger, editor-in-chief for Nupedia and later Wikipedia.[15][16] Nupedia was initially licensed under its own Nupedia Open Content License. Before Wikipedia was founded, Nupedia switched to the GNU Free Documentation License at the urging of Richard Stallman.[W 2] Wales is often credited with defining the goal of making a publicly editable encyclopedia,[17] while Sanger is credited with the strategy of using a wiki to reach that goal.[18] On January 10, 2001, Sanger proposed on the Nupedia mailing list to create a wiki as a "feeder" project for Nupedia.[W 3]
+   86  Launch and growth
+   87  Wikipedia was launched on January 15, 2001 (sometimes referred to as "Wikipedia Day"),[19] as a single English language edition with the domain name www.wikipedia.com,[W 4] and was announced by Sanger on the Nupedia mailing list.[17] The name, proposed by Sanger to forestall any potential damage to the Nupedia name,[20] originated from a blend of the words wiki and encyclopedia.[21][22] Wales stated that the idea for Wikipedia was influenced by the spontaneous order ideas associated with Friedrich Hayek and the Austrian School of economics after being exposed to these ideas by the libertarian economist Mark Thornton.[23][24] In particular, Wales was influenced by Hayek's essay The Use of Knowledge in Society stating it was "central" to his thinking about "how to manage the Wikipedia project".[24] Its integral policy of "neutral point of view" arose within its first year.[25] Otherwise, there were initially relatively few rules, and it operated independently of Nupedia.[17] Bomis originally intended for it to be a for-profit business.[26]
+   88  The Wikipedia home page on December 20, 2001[f]
+   89  Wikipedia gained early contributors from Nupedia, Slashdot postings, and web search engine indexing. Language editions were created beginning in March 2001, with a total of 161 in use by the end of 2004.[W 5][W 6] Nupedia and Wikipedia coexisted until the former's servers were taken down permanently in 2003, and its text was incorporated into Wikipedia. The English Wikipedia passed the mark of 2 million articles on September 9, 2007, making it the largest encyclopedia ever assembled, surpassing the Yongle Encyclopedia made in China during the Ming dynasty in 1408, which had held the record for almost 600 years.[27]
+   90  Due to fears of commercial advertising and lack of control, users of the Spanish Wikipedia forked from Wikipedia to create Enciclopedia Libre in February 2002.[W 7] Wales then announced that Wikipedia would not display advertisements and changed Wikipedia's domain from wikipedia.com to wikipedia.org.[28][W 8]
+   91  After an early period of exponential growth,[29] the growth rate of the English Wikipedia in terms of the numbers of new articles and of editors appears to have peaked around early 2007.[30] The edition reached 3 million articles in August 2009. Around 1,800 articles were added daily to the encyclopedia in 2006; by 2013 that average was roughly 800.[W 9] A team at the Palo Alto Research Center attributed this slowing of growth to "increased coordination and overhead costs, exclusion of newcomers, and resistance to new edits".[29] Others suggested that the growth flattened naturally because articles that could be called "low-hanging fruit"—topics that clearly merit an article—had already been created and built up extensively.[31][32][33]
+   92  In November 2009, a researcher at the Rey Juan Carlos University in Madrid, Spain, found that the English Wikipedia had lost 49,000 editors during the first three months of 2009; in comparison, it lost only 4,900 editors during the same period in 2008.[34][35] The Wall Street Journal cited the array of rules applied to editing and disputes related to such content among the reasons for this trend.[36] Wales disputed these claims in 2009, denying the decline and questioning the study's methodology.[37] Two years later, in 2011, he acknowledged a slight decline, noting a decrease from "a little more than 36,000 writers" in June 2010 to 35,800 in June 2011. In the same interview, he also claimed the number of editors was "stable and sustainable".[38] A 2013 MIT Technology Review article, "The Decline of Wikipedia", questioned this claim, reporting that since 2007 Wikipedia had lost a third of its volunteer editors, and suggesting that those remaining had focused increasingly on minutiae.[39] In July 2012, The Atlantic reported that the number of administrators was also in decline.[40] In November 2013, New York magazine stated, "Wikipedia, the sixth-most-used website, is facing an internal crisis."[41] The number of active English Wikipedia editors has since remained steady after a long period of decline.[42][43]
+   93  On January 20, 2014, Subodh Varma reporting for The Economic Times indicated that not only had Wikipedia's growth stalled, it "had lost nearly ten percent of its page views last year. There was a decline of about 2 billion between December 2012 and December 2013. Its most popular versions are leading the slide: page-views of the English Wikipedia declined by twelve percent, those of the German version slid by 17 percent and the Japanese version lost 9 percent."[44] Varma added, "While Wikipedia's managers think that this could be due to errors in counting, other experts feel that Google's Knowledge Graphs project launched last year may be gobbling up Wikipedia users."[44] When contacted on this matter, Clay Shirky, associate professor at New York University and fellow at Harvard's Berkman Klein Center for Internet & Society said that he suspected much of the page-view decline was due to Knowledge Graphs, stating, "If you can get your question answered from the search page, you don't need to click [any further]."[44] By the end of December 2016, Wikipedia was ranked the fifth most popular website globally.[45] As of January 2023, 55,791 English Wikipedia articles have been cited 92,300 times in scholarly journals,[46] from which cloud computing was the most cited page.[47]
+   94  Sister projects
+   95  Main article: Wikimedia project
+   96  Wikipedia has spawned several sister projects, which are also wikis run by the Wikimedia Foundation. These other Wikimedia projects include Wiktionary, a dictionary project launched in December 2002,[W 10] Wikiquote, a collection of quotations created a week after Wikimedia launched,[48] Wikibooks, a collection of collaboratively written free textbooks and annotated texts,[W 11] Wikimedia Commons, a site devoted to free-knowledge multimedia,[W 12] Wikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activities.[W 14] Another sister project of Wikipedia, Wikispecies, is a catalog of all species, but is not open for public editing.[50] In 2012, Wikivoyage, an editable travel guide,[51] and Wikidata, an editable knowledge base, launched.[W 15]
+   97  Milestones
+   98  Cartogram showing number of articles in the top 88 Wikipedias (as of March 2024). The size of the circles for Wikipedias that have less than a million articles is fixed and not proportional to the size of the Wikipedia. The smallest Wikipedia that made the cutoff is the Haitian Creole Wikipedia with 69K articles.[g]
+   99  The languages are roughly grouped by region:
+  100           Northern Europe          Eastern Europe     Middle East     East Asia     Indian subcontinent     Sub-Saharan Africa     Central Asia     Caribbean
+  101  In January 2007, Wikipedia first became one of the ten most popular websites in the United States, according to Comscore Networks.[52] With 42.9 million unique visitors, it was ranked ninth, surpassing The New York Times (No. 10) and Apple (No. 11).[52] This marked a significant increase over January 2006, when Wikipedia ranked 33rd, with around 18.3 million unique visitors.[53] In 2014, it received 8 billion page views every month.[W 16] On February 9, 2014, The New York Times reported that Wikipedia had 18 billion page views and nearly 500 million unique visitors a month, "according to the ratings firm comScore".[54] As of March 2023, it ranked sixth in popularity, according to Similarweb.[55] Jeff Loveland and Joseph Reagle argue that, in process, Wikipedia follows a long tradition of historical encyclopedias that have accumulated improvements piecemeal through "stigmergic accumulation".[56][57]
+  102  On January 18, 2012, the English Wikipedia participated in a series of coordinated protests against two proposed laws in the United States Congress—the Stop Online Piracy Act (SOPA) and the PROTECT IP Act (PIPA)—by blacking out its pages for 24 hours.[58] More than 162 million people viewed the blackout explanation page that temporarily replaced its content.[59][W 17]
+  103  In January 2013, 274301 Wikipedia, an asteroid, was named after Wikipedia;[60] in October 2014, Wikipedia was honored with the Wikipedia Monument;[61] and, in July 2015, 106 of the 7,473 700-page volumes of Wikipedia became available as Print Wikipedia.[62] In April 2019, an Israeli lunar lander, Beresheet, crash landed on the surface of the Moon carrying a copy of nearly all of the English Wikipedia engraved on thin nickel plates; experts say the plates likely survived the crash.[63][64] In June 2019, scientists reported that all 16 GB of article text from the English Wikipedia had been encoded into synthetic DNA.[65]
+  104  On January 18, 2023, Wikipedia debuted a new website redesign, called "Vector 2022".[66][67] It featured a redesigned menu bar, moving the table of contents to the left as a sidebar, and numerous changes in the locations of buttons like the language selection tool.[67][W 18] The update initially received backlash, most notably when editors of the Swahili Wikipedia unanimously voted to revert the changes.[66][68]
+  105  Both Sanger and Wales gave public interviews in late 2025 about their reflections about the status and state of Wikipedia, leading up to its 25 years of operation on January 15, 2026; Wales appeared on the PBS television news show GZERO World interviewed by Ian Bremmer[69] and Sanger has appeared on the Fox News Channel, interviewed by Ashley Rindsberg.[70] Wales' book The Seven Rules of Trust was published in October 2025 by Penguin Random House. It was described by the publisher as a "sweeping reflection on the global crisis of credibility and knowledge" with the book examining the "rules of trust" that enabled the growth and success of Wikipedia.[71]
+  106  Impacts of generative AI on Wikipedia views
+  107  Further information: Artificial intelligence in Wikimedia projects
+  108  Since January 2024, the Wikimedia Foundation has reported a roughly 50 percent increase in bandwidth use from downloads of multimedia content across its projects. According to the foundation, this growth is largely attributed to automated programs, or "scraper" bots, that collect large volumes of data from Wikimedia sites for use in training large language models and related applications.[72]
+  109  In October 2025, the Wikimedia Foundation reported an estimated 8 percent decline in traffic as compared to the same month in 2024 in human page views. They speculated that it reflects the growing use of generative AI and social media for finding information.[73][74]
+  110  ~clear
+  111  echo "[200~Wikipedia has spawned several sister projects, which are also wikis run by the Wikimedia Foundation. These other Wikimedia projects include Wiktionary, a dictionary project launched in December 2002,[W 10] Wikiquote, a collection of quotations created a week after Wikimedia launched,[48] Wikibooks, a collection of collaboratively written free textbooks and annotated texts,[W 11] Wikimedia Commons, a site devoted to free-knowledge multimedia,[W 12] Wikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activities.[W 14] Another sister project of Wikipedia, Wikispecies, is a catalog of all species, but is not open for public editing.[50] In 2012, Wikivoyage, an editable travel guide,[51] and Wikidata, an editable knowledge base, launched.[W 15] "
+  112  Milestones
+  113  Cartogram showing number of articles in the top 88 Wikipedias (as of March 2024). The size of the circles for Wikipedias that have less than a million articles is fixed and not proportional to the size of the Wikipedia. The smallest Wikipedia that made the cutoff is the Haitian Creole Wikipedia with 69K articles.[g]
+  114  The languages are roughly grouped by region:
+  115  In January 2007, Wikipedia first became one of the ten most popular websites in the United States, according to Comscore Networks.[52] With 42.9 million unique visitors, it was ranked ninth, surpassing The New York Times (No. 10) and Apple (No. 11).[52] This marked a significant increase over January 2006, when Wikipedia ranked 33rd, with around 18.3 million unique visitors.[53] In 2014, it received 8 billion page views every month.[W 16] On February 9, 2014, The New York Times reported that Wikipedia had 18 billion page views and nearly 500 million unique visitors a month, "according to the ratings firm comScore".[54] As of March 2023, it ranked sixth in popularity, according to Similarweb.[55] Jeff Loveland and Joseph Reagle argue that, in process, Wikipedia follows a long tradition of historical encyclopedias that have accumulated improvements piecemeal through "stigmergic accumulation".[56][57]
+  116  On January 18, 2012, the English Wikipedia participated in a series of coordinated protests against two proposed laws in the United States Congress—the Stop Online Piracy Act (SOPA) and the PROTECT IP Act (PIPA)—by blacking out its pages for 24 hours.[58] More than 162 million people viewed the blackout explanation page that temporarily replaced its content.[59][W 17]
+  117  In January 2013, 274301 Wikipedia, an asteroid, was named after Wikipedia;[60] in October 2014, Wikipedia was honored with the Wikipedia Monument;[61] and, in July 2015, 106 of the 7,473 700-page volumes of Wikipedia became available as Print Wikipedia.[62] In April 2019, an Israeli lunar lander, Beresheet, crash landed on the surface of the Moon carrying a copy of nearly all of the English Wikipedia engraved on thin nickel plates; experts say the plates likely survived the crash.[63][64] In June 2019, scientists reported that all 16 GB of article text from the English Wikipedia had been encoded into synthetic DNA.[65]
+  118  On January 18, 2023, Wikipedia debuted a new website redesign, called "Vector 2022".[66][67] It featured a redesigned menu bar, moving the table of contents to the left as a sidebar, and numerous changes in the locations of buttons like the language selection tool.[67][W 18] The update initially received backlash, most notably when editors of the Sw~clear
+  119  ls
+  120  echo "  [200~echo "^[[200~Wikipedia has spawned several sister projects, which are also wikis run by the Wikimedia Foundation. These other Wikimedia projects include Wiktionary, a dictionary project launched in December 2002,[W 10] Wikiquote, a collection of quotations created a week after Wikimedia launched,[48] Wikibooks, a collection of collaboratively written free textbooks and annotated texts,[W 11] Wikimedia Commons, a site devoted to free-knowledge multimedia,[W 12] Wikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activities.[W 14] Another sister project of Wikipedia, Wikispecies, is a catalog of all species, but is not open for public editing.[50] In 2012, Wikivoyage, an editable travel guide,[51] and Wikidata, an editable knowledge base, launched.[W 15] "    " > experiment.txt 
+  121  Wikipedia has spawned several sister projects, which are also wikis run by the Wikimedia Foundation. These other Wikimedia projects include Wiktionary, a dictionary project launched in December 2002,[W 10] Wikiquote, a collection of quotations created a week after Wikimedia launched,[48] Wikibooks, a collection of collaboratively written free textbooks and annotated texts,[W 11] Wikimedia Commons, a site devoted to free-knowledge multimedia,[W 12] Wikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activities.[W 14] Another sister project of Wikipedia, Wikispecies, is a catalog of all species, but is not open for public editing.[50] In 2012, Wikivoyage, an editable travel guide,[51] and Wikidata, an editable knowledge base, launched.[W 15] 
+  122  ~cat experiment.txt
+  123  cat experiment.txt
+  124  Wikipedia has spawned several sister projects, which are also wikis run by the Wikimedia Foundation. These other Wikimedia projects include Wiktionary, a dictionary project launched in December 2002,[W 10] Wikiquote, a collection of quotations created a week after Wikimedia launched,[48] Wikibooks, a collection of collaboratively written free textbooks and annotated texts,[W 11] Wikimedia Commons, a site devoted to free-knowledge multimedia,[W 12] Wikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activities.[W 14] Another sister project of Wikipedia, Wikispecies, is a catalog of all species, but is not open for public editing.[50] In 2012, Wikivoyage, an editable travel guide,[51] and Wikidata, an editable knowledge base, launched.[W 15] cla
+  125  echo i love you 
+  126  echo i love you > experiment.txt
+  127  cat experiment.txt
+  128  echo   Wikipedia has spawned several sister projects, which are also wikis run by the Wikimedia Foundation. These other Wikimedia projects include Wiktionary, a dictionary project launched in December 2002,[W 10] Wikiquote, a collection of quotations created a week after Wikimedia launched,[48] Wikibooks, a collection of collaboratively written free textbooks and annotated texts,[W 11] Wikimedia Commons, a site devoted to free-knowledge multimedia,[W 12] Wikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activities.[W 14] Another sister project of Wikipedia, Wikispecies, is a catalog of all species, but is not open for public editing.[50] In 2012, Wikivoyage, an editable travel guide,[51] and Wikidata, an editable knowledge base, launched.[W 15] cla
+  129  bash: syntax error near unexpected token `('
+  130    > experiment.txt 
+  131  cat experiment.txt
+  132  echo i love you > experiment.txt
+  133  echo i loveWikinews, for collaborative journalism[W 13] (which was later shut down in 2026[49]), and Wikiversity, a project for the creation of free learning materials and the provision of online learning activiti you > experiment.txt
+  134  cat experiment.txt
+  135  echo hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhi love you > experiment.txt
+  136  mv experiment.txt my.txt
+  137  ls
+  138  tail my.txt
+  139  tail -n 5 my.txt 
+  140  echo " jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999  " > my.txt 
+  141  tail -n 5 my.txt 
+  142  echo " jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999  " > my.txt 
+  143  tail -n 5 my.txt 
+  144  cat my.txt
+  145  echo hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhi love you >> experiment.txt
+  146  cat my.txt
+  147  echo " jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999  " >> my.txt 
+  148  echo hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhi love you >> experiment.txt
+  149  cat my.txt
+  150  tail -n 5 my.txt 
+  151  tail -n 8 my.txt 
+  152  tail -n 15 my.txt 
+  153  cat my.txt
+  154  tail -f my.txt
+  155  head -f my.txt
+  156  echo I like to go to church > ch.txt
+  157  echo I like to go to school > sch.txt
+  158  cat ch.txt sch.txt
+  159  cat ch.txt sch.txt > all.txt
+  160  cat all .txt
+  161  cat all.txt
+  162  cat my.txt
+  163  less my.txt
+  164  cat my.txt
+  165  less my.txt
+  166  find ch.txt
+  167  find ch.txt | cat ch.txt
+  168  find ch.txt | cat ch.txt + sch.txt
+  169  find ch.txt | +  sch.txt
+  170  find ch.txt |  sch.txt
+  171  find ch.txt | cat ch.txt + sch.txt
+  172  find c ch.txt
+  173  find *ch.txt
+  174  grep love all.txt ch.txt sch.txt
+  175  grep like all.txt ch.txt sch.txt
+  176  find like all.txt ch.txt sch.txt
+  177  find *txt  all.txt ch.txt sch.txt
+  178  wc ch.txt
+  179  cat all.txt
+  180  wc all.txt
+  181  wc -l all.txt
+  182  wc -w all.txt
+  183  wc -c all.txt
+  184  wc -m all.txt
+  185  wc < ch.txt 
+  186  wc ch.txt
+  187  mkdir /home/mist/Lab_2/almost/bob.txt < echo lovely day
+  188  4+6
+  189  cat ch.txt sch.txt < m.txt
+  190  echo "hello" | wc -m
+  191  wc -m < greetings 
+  192  touch Grettings
+  193  wc -m < Greetings 
+  194  touch Grettings
+  195  wc -m < Greetings 
+  196  wc -m < Greettings 
+  197  touch Grettings
+  198  wc -m < Greettings 
+  199  wc -m < Grettings 
+  200  echo "         I miss this part of you    " >> my.txt
+  201  echo "         I can't wait to see you    " >> my.txt
+  202  echo "         you are the best    " >> my.txt
+  203  sudo apt install git
+  204  git init
+  205  ls -a
+  206  git status
+  207  ls
+  208  cd /etc
+  209  cat password
+  210  cat passwd
+  211  cat /passwd
+  212  cat /etc/passwd
+  213  cat /var/run/vboxadd:/bin/false
+  214  nano rtkit:x:978:978:RealtimeKit:/proc:/usr/sbin/nologin
+  215  nano rtkit:x:978:978:RealtimeKit:/proc:/usr/sbin/nologinlp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+  216  grep /etc/passwd mist
+  217  grep mist passwd
+  218  cut -d -f6 /passwd
+  219  cut -d -f6 passwd
+  220  cut -d: -f6 passwd
+  221  grep mist passwd | cut -d: -f1,2
+  222  cut -d: -f1,2 | grep /etc/passwd 
+  223  cut -d: -f1,2  grep /etc/passwd 
+  224  cat /group
+  225  cat /etc/group
+  226  cat /group
+  227  cat /etc/group
+  228  ls
+  229  cat group
+  230  cut -d: f1,2 grep /etc/group
+  231  cut -d: -f1,2 grep /etc/group
+  232  cat lxd
+  233  cat| cut -d: -f1,2 grep /etc/group
+  234  less | cut -d: -f1,2 grep /etc/group
+  235  less hostname 
+  236  cd /etc | less hostname
+  237  cd /etc 
+  238  less hostname
+  239  cd /etc
+  240  les hostname
+  241  cat hostname
+  242  cat os-release
+  243  cat group
+  244  cd
+  245  cd /sys
+  246  ls
+  247  /kernel
+  248  less kernel
+  249  cd kernel
+  250  ls
+  251  cd tracking
+  252  cd tracing
+  253  sudo cd tracing 
+  254  cd tracing
+  255  cat tracing
+  256  cd tracing
+  257  sudo su
+  258  cd
+  259  mkdir Lab_3
+  260  ls
+  261  cp /etc/passwd Lab_3
+  262  cd Lab_3
+  263  ls
+  264  cd
+  265  cp /etc/group,hostname,os-release
+  266  cp /etc/group,hostname,os-release Lab_3
+  267  cd Lab-3
+  268  cd Lab_3
+  269  ls
+  270  cd
+  271  cp /etc/group,hostname,os-release Lab_3[200~os-release
+  272  cp /etc/group,hostname,os-release Lab_3
+  273  cp {group,hostname,os-release}Lab_3
+  274  cp {group,hostname,os-release} /Lab_3
+  275  cp {group,hostname,os-release} /home/Lab_3
+  276  cp {group,hostname,os-release} ~/Lab_3
+  277  cd /etc
+  278  ls
+  279  cd
+  280  cp /etc/ {group,hostname,os-release} ~/Lab_3
+  281  cp /etc/{group,hostname,os-release} ~/Lab_3/
+  282  mkdr m
+  283  mkdir m
+  284  cp /etc/{group,hostname,os-release} Lab_3
+  285  cd m
+  286  ls
+  287  ls -l
+  288  cp /etc/{group,hostname,os-release} /Lab_3/
+  289  cd
+  290  cp /etc/{group,hostname,os-release} m
+  291  cd m
+  292  ls
+  293  cd'
+  294  cd
+  295  cd Lab_3
+  296  ls
+  297  cp /sys/kernel/debug/multigrain_time_stamps Lab_3
+  298* 
+  299  cp /sys/kernel/debug/multigrain_time_stamps Lab_3
+  300  cd
+  301  cp /sys/kernel/debug/multigrain_timestamps Lab_3
+  302  sudo cp /sys/kernel/debug/multigrain_timestamps Lab_3
+  303  cd Lab_3
+  304  ls
+  305  cd
+  306  sudo su
+  307  ls
+  308  sudo su
+  309  cd Lab_3
+  310  ls
+  311  cat multigrain_stmestamps
+  312  cat cat multigrain_stmestamps
+  313  cat multigrain_stmestamps
+  314  ls
+  315  cat multigrain_timestamps
+  316  cat passwd
+  317  cd
+  318  whoami
+  319  sudo apt install git
+  320  sudo apt update
+  321  sudo apt get-install git
+  322  sudo apt-get install git
+  323  sudo apt-get update
+  324  sudo apt-get upgrade
+  325  git --version
+  326  git config --global user.name Missoune St Felix
+  327  git config --global user.name "Missoune St Felix"
+  328  git config --global user.email ms3662@njit.edu
+  329  cd Lab_3
+  330  .git init
+  331  sudo apt-get install git
+  332  sudo apt-get update && apt-get upgrade -y
+  333  sudo apt-get update 
+  334  sudo apt-get upgrade -y
+  335  sudo apt-get upgrade 
+  336  git config --global "Missoune St Felix"
+  337  git config --global user.name  "Missoune St Felix"
+  338  git config --global user.email ms3662@njit.edu
+  339  git init
+  340  git status
+  341  git add passwd
+  342  git add group hostname multigrain_timestamps os-release
+  343  git status
+  344  git commit
+  345  git status
+  346  git log
+  347  git checkout -b experimental_branch
+  348  git status
+  349  git branch
+  350  nano experimenta_branch
+  351  nano experimental_branch
+  352  ls
+  353  git ls-tree  -r --name-only HEAD
+  354  nano hostname
+  355  git status
+  356  nano hostname
+  357  git status
+  358  git add hostname
+  359  git status
+  360  git commit
+  361  git status
+  362  git log
+  363  ssh -keygen -t ed25519 -C "ms3662@njit.edu"
+  364  ssh-keygen -t ed25519 -C "ms3662@njit.edu"
+  365  cat ~/ .ssh/id_ed25519.pub
+  366  cat ~/ .ssh/id_d25519.pub
+  367  cat ~/.ssh/id_d25519.pub
+  368  cat ~/.ssh/id_ed25519.pub
+  369  git@github.com:ms3662bash/It-340-Lab_3-remote.git
+  370  git remote add origin git@github.com:ms3662bash/It-340-Lab_3-remote.git
+  371  git push origin experimental_branch
+  372  git checkout main
+  373  git checkout master
+  374  git stat
+  375  git status
+  376  git push origin master
+  377  git checkout experimental_branch
+  378  touch missoune.txt
+  379  git status
+  380  add missoune.txt
+  381  git add missoune.txt
+  382  git commit
+  383  git status
+  384  git log
+  385  touch class.txt
+  386  echo This is a Linux class > class.txt
+  387  cat class.txt
+  388  rm -r class.txt
+  389  rm -r missoune.txt
+  390  nano passwd
+  391  status
+  392  git status
+  393  git add passwd
+  394  git status
+  395  git add missoune.txt
+  396  git status
+  397  git commit
+  398  git status
+  399  git log
+  400  nano info430.txt
+  401  git status
+  402  mv info420 info340
+  403  mv info420.txt info340.txt
+  404  mv info430.txt info340.txt
+  405  git status
+  406  git add info340.txt
+  407  git status
+  408  git commit
+  409  git status
+  410  git log
+  411  git push info340.txt
+  412  git push experimental_branch
+  413  git push origin experimental_branch
+  414  git revet experimental_branch
+  415  git revert experimental_branch
+  416  git status
+  417  git log --oneline
+  418  git log 
+  419  git log > git_log_output.txt
+  420  git add git_log_output.txt
+  421  git status
+  422  git commit 
+  423  git push origin experimental_branch
+  424  history > history.txt
